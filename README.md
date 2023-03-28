@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Nopporn Lekuthai
+
+Medical student who appears to be a bit too curious about Software Development and Machine Learning
+
+- 🌱 I'm currently learning tRPC and Prisma
+- 😄 Pronouns: He, Him
+- 📫 How to reach me: **swiss0404@gmail.com**
+- 
 
 [![Swiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=swissnp)](https://github.com/anuraghazra/github-readme-stats)
 
