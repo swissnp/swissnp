@@ -6,7 +6,6 @@ Medical student who appears to be a bit too curious about Software Development a
 - 😄 Pronouns: He, Him
 - 📫 How to reach me: **swiss0404@gmail.com**
 
-[![Swiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=swissnp)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **swissnp/swissnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
