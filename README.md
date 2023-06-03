@@ -2,7 +2,7 @@
 
 Medical student who appears to be a bit too curious about Software Development and Machine Learning
 
-- 🌱 I'm currently learning tRPC and Prisma
+- 🌱 I'm currently learning NLP related ML
 - 😄 Pronouns: He, Him
 - 📫 How to reach me: **swiss0404@gmail.com**
 
