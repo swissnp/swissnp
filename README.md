@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Nopporn Lekuthai
 
-Medical student who appears to be a bit too curious about Software Development and Machine Learning
 
 - 🌱 I'm currently learning NLP related ML
 - 😄 Pronouns: He, Him
