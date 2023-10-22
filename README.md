@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Nopporn Lekuthai
 
-
-- 🌱 I'm currently learning NLP related ML
-- 😄 Pronouns: He, Him
 - 📫 How to reach me: **swiss0404@gmail.com**
 
 
