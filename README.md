@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![swiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=swissnp)]
+![swiss's GitHub stats](https://github-readme-stats.vercel.app/api?username=swissnp)
